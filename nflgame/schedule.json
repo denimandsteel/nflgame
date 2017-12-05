@@ -37058,7 +37058,6 @@
     "year": 2015
    }
   ],
-  
   [
    "2016010301",
    {
@@ -45978,7 +45977,7 @@
     "meridiem": "PM",
     "month": 10,
     "season_type": "REG",
-    "time": "1:00",
+    "time": "4:25",
     "wday": "Sun",
     "week": 7,
     "year": 2017
@@ -46954,6 +46953,23 @@
    }
   ],
   [
+   "2017111911",
+   {
+    "away": "TB",
+    "day": 19,
+    "eid": "2017111911",
+    "gamekey": "57241",
+    "home": "MIA",
+    "meridiem": "PM",
+    "month": 11,
+    "season_type": "REG",
+    "time": "1:00",
+    "wday": "Sun",
+    "week": 11,
+    "year": 2017
+   }
+  ],
+  [
    "2017112000",
    {
     "away": "ATL",
@@ -47151,7 +47167,7 @@
     "meridiem": "PM",
     "month": 11,
     "season_type": "REG",
-    "time": "4:05",
+    "time": "4:25",
     "wday": "Sun",
     "week": 12,
     "year": 2017
@@ -47389,7 +47405,7 @@
     "meridiem": "PM",
     "month": 12,
     "season_type": "REG",
-    "time": "1:00",
+    "time": "4:25",
     "wday": "Sun",
     "week": 13,
     "year": 2017
@@ -47627,7 +47643,7 @@
     "meridiem": "PM",
     "month": 12,
     "season_type": "REG",
-    "time": "1:00",
+    "time": "4:25",
     "wday": "Sun",
     "week": 14,
     "year": 2017
@@ -47746,7 +47762,7 @@
     "meridiem": "PM",
     "month": 12,
     "season_type": "REG",
-    "time": "4:25",
+    "time": "1:00",
     "wday": "Sun",
     "week": 14,
     "year": 2017
@@ -48603,5 +48619,5 @@
    }
   ]
  ],
- "time": 1504112216.544
+ "time": 1512517644.137842
 }

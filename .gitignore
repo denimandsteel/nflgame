@@ -12,3 +12,5 @@ tags
 TAGS
 *.egg-info
 ve
+*.pyc
+.idea
