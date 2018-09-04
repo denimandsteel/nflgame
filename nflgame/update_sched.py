@@ -18,7 +18,7 @@ def year_phase_week(year=None, phase=None, week=None):
         ('REG', xrange(1, 17 + 1)),
         ('POST', xrange(1, 4 + 1)),
     )
-    for y in range(2009, cur_year+1):
+    for y in range(2009, cur_year+2):
         if year is not None and year != y:
             continue
         for p, weeks in season_types:
@@ -56,7 +56,7 @@ def week_schedule(year, stype, week):
     try:
         dom = xml.parse(urllib2.urlopen(url))
     except urllib2.HTTPError:
-        print >> sys.stderr, 'Could not load %s' % url
+        print('Could not load %s' % url)
         return []
 
     games = []
@@ -132,6 +132,7 @@ def update_week(sched, year, stype, week):
 
 
 def write_schedule(fpath, sched):
+    print(fpath)
     alist = []
     for gsis_id in sorted(sched):
         alist.append([gsis_id, sched[gsis_id]])
