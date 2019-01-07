@@ -18,7 +18,7 @@ def year_phase_week(year=None, phase=None, week=None):
         ('REG', xrange(1, 17 + 1)),
         ('POST', xrange(1, 4 + 1)),
     )
-    for y in range(2009, cur_year+2):
+    for y in range(2009, cur_year+4):
         if year is not None and year != y:
             continue
         for p, weeks in season_types:

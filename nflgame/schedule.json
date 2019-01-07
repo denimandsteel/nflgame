@@ -50763,6 +50763,1111 @@
    }
   ],
   [
+   "2018080251",
+   {
+    "away": "CHI",
+    "day": 2,
+    "eid": "2018080251",
+    "gamekey": "57502",
+    "home": "BAL",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "8:00",
+    "wday": "Thu",
+    "week": 0,
+    "year": 2018
+   }
+  ],
+  [
+   "2018080951",
+   {
+    "away": "LA",
+    "day": 9,
+    "eid": "2018080951",
+    "gamekey": "57504",
+    "home": "BAL",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:30",
+    "wday": "Thu",
+    "week": 1,
+    "year": 2018
+   }
+  ],
+  [
+   "2018080952",
+   {
+    "away": "CAR",
+    "day": 9,
+    "eid": "2018080952",
+    "gamekey": "57505",
+    "home": "BUF",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:00",
+    "wday": "Thu",
+    "week": 1,
+    "year": 2018
+   }
+  ],
+  [
+   "2018080953",
+   {
+    "away": "CHI",
+    "day": 9,
+    "eid": "2018080953",
+    "gamekey": "57506",
+    "home": "CIN",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:00",
+    "wday": "Thu",
+    "week": 1,
+    "year": 2018
+   }
+  ],
+  [
+   "2018080954",
+   {
+    "away": "TEN",
+    "day": 9,
+    "eid": "2018080954",
+    "gamekey": "57508",
+    "home": "GB",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "8:00",
+    "wday": "Thu",
+    "week": 1,
+    "year": 2018
+   }
+  ],
+  [
+   "2018080955",
+   {
+    "away": "NO",
+    "day": 9,
+    "eid": "2018080955",
+    "gamekey": "57509",
+    "home": "JAX",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:00",
+    "wday": "Thu",
+    "week": 1,
+    "year": 2018
+   }
+  ],
+  [
+   "2018080956",
+   {
+    "away": "HOU",
+    "day": 9,
+    "eid": "2018080956",
+    "gamekey": "57510",
+    "home": "KC",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "8:30",
+    "wday": "Thu",
+    "week": 1,
+    "year": 2018
+   }
+  ],
+  [
+   "2018080957",
+   {
+    "away": "TB",
+    "day": 9,
+    "eid": "2018080957",
+    "gamekey": "57511",
+    "home": "MIA",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:00",
+    "wday": "Thu",
+    "week": 1,
+    "year": 2018
+   }
+  ],
+  [
+   "2018080958",
+   {
+    "away": "WAS",
+    "day": 9,
+    "eid": "2018080958",
+    "gamekey": "57512",
+    "home": "NE",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:30",
+    "wday": "Thu",
+    "week": 1,
+    "year": 2018
+   }
+  ],
+  [
+   "2018080959",
+   {
+    "away": "CLE",
+    "day": 9,
+    "eid": "2018080959",
+    "gamekey": "57513",
+    "home": "NYG",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:00",
+    "wday": "Thu",
+    "week": 1,
+    "year": 2018
+   }
+  ],
+  [
+   "2018080960",
+   {
+    "away": "PIT",
+    "day": 9,
+    "eid": "2018080960",
+    "gamekey": "57516",
+    "home": "PHI",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:00",
+    "wday": "Thu",
+    "week": 1,
+    "year": 2018
+   }
+  ],
+  [
+   "2018080961",
+   {
+    "away": "DAL",
+    "day": 9,
+    "eid": "2018080961",
+    "gamekey": "57517",
+    "home": "SF",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "10:00",
+    "wday": "Thu",
+    "week": 1,
+    "year": 2018
+   }
+  ],
+  [
+   "2018080962",
+   {
+    "away": "IND",
+    "day": 9,
+    "eid": "2018080962",
+    "gamekey": "57518",
+    "home": "SEA",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "10:00",
+    "wday": "Thu",
+    "week": 1,
+    "year": 2018
+   }
+  ],
+  [
+   "2018081051",
+   {
+    "away": "ATL",
+    "day": 10,
+    "eid": "2018081051",
+    "gamekey": "57514",
+    "home": "NYJ",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:30",
+    "wday": "Fri",
+    "week": 1,
+    "year": 2018
+   }
+  ],
+  [
+   "2018081052",
+   {
+    "away": "DET",
+    "day": 10,
+    "eid": "2018081052",
+    "gamekey": "57515",
+    "home": "OAK",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "10:30",
+    "wday": "Fri",
+    "week": 1,
+    "year": 2018
+   }
+  ],
+  [
+   "2018081151",
+   {
+    "away": "LAC",
+    "day": 11,
+    "eid": "2018081151",
+    "gamekey": "57503",
+    "home": "ARI",
+    "meridiem": "AM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "10:00",
+    "wday": "Sat",
+    "week": 1,
+    "year": 2018
+   }
+  ],
+  [
+   "2018081152",
+   {
+    "away": "MIN",
+    "day": 11,
+    "eid": "2018081152",
+    "gamekey": "57507",
+    "home": "DEN",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "9:05",
+    "wday": "Sat",
+    "week": 1,
+    "year": 2018
+   }
+  ],
+  [
+   "2018081651",
+   {
+    "away": "NYJ",
+    "day": 16,
+    "eid": "2018081651",
+    "gamekey": "57519",
+    "home": "WAS",
+    "meridiem": "AM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "8:00",
+    "wday": "Thu",
+    "week": 2,
+    "year": 2018
+   }
+  ],
+  [
+   "2018081652",
+   {
+    "away": "PIT",
+    "day": 16,
+    "eid": "2018081652",
+    "gamekey": "57526",
+    "home": "GB",
+    "meridiem": "AM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "8:00",
+    "wday": "Thu",
+    "week": 2,
+    "year": 2018
+   }
+  ],
+  [
+   "2018081653",
+   {
+    "away": "PHI",
+    "day": 16,
+    "eid": "2018081653",
+    "gamekey": "57531",
+    "home": "NE",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:30",
+    "wday": "Thu",
+    "week": 2,
+    "year": 2018
+   }
+  ],
+  [
+   "2018081751",
+   {
+    "away": "KC",
+    "day": 17,
+    "eid": "2018081751",
+    "gamekey": "57520",
+    "home": "ATL",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:00",
+    "wday": "Fri",
+    "week": 2,
+    "year": 2018
+   }
+  ],
+  [
+   "2018081752",
+   {
+    "away": "MIA",
+    "day": 17,
+    "eid": "2018081752",
+    "gamekey": "57521",
+    "home": "CAR",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:30",
+    "wday": "Fri",
+    "week": 2,
+    "year": 2018
+   }
+  ],
+  [
+   "2018081753",
+   {
+    "away": "BUF",
+    "day": 17,
+    "eid": "2018081753",
+    "gamekey": "57522",
+    "home": "CLE",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:30",
+    "wday": "Fri",
+    "week": 2,
+    "year": 2018
+   }
+  ],
+  [
+   "2018081754",
+   {
+    "away": "NYG",
+    "day": 17,
+    "eid": "2018081754",
+    "gamekey": "57525",
+    "home": "DET",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:00",
+    "wday": "Fri",
+    "week": 2,
+    "year": 2018
+   }
+  ],
+  [
+   "2018081755",
+   {
+    "away": "ARI",
+    "day": 17,
+    "eid": "2018081755",
+    "gamekey": "57532",
+    "home": "NO",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "8:00",
+    "wday": "Fri",
+    "week": 2,
+    "year": 2018
+   }
+  ],
+  [
+   "2018081851",
+   {
+    "away": "CIN",
+    "day": 18,
+    "eid": "2018081851",
+    "gamekey": "57523",
+    "home": "DAL",
+    "meridiem": "AM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:00",
+    "wday": "Sat",
+    "week": 2,
+    "year": 2018
+   }
+  ],
+  [
+   "2018081852",
+   {
+    "away": "CHI",
+    "day": 18,
+    "eid": "2018081852",
+    "gamekey": "57524",
+    "home": "DEN",
+    "meridiem": "AM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "9:05",
+    "wday": "Sat",
+    "week": 2,
+    "year": 2018
+   }
+  ],
+  [
+   "2018081853",
+   {
+    "away": "SF",
+    "day": 18,
+    "eid": "2018081853",
+    "gamekey": "57527",
+    "home": "HOU",
+    "meridiem": "AM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "8:00",
+    "wday": "Sat",
+    "week": 2,
+    "year": 2018
+   }
+  ],
+  [
+   "2018081854",
+   {
+    "away": "SEA",
+    "day": 18,
+    "eid": "2018081854",
+    "gamekey": "57528",
+    "home": "LAC",
+    "meridiem": "AM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "10:00",
+    "wday": "Sat",
+    "week": 2,
+    "year": 2018
+   }
+  ],
+  [
+   "2018081855",
+   {
+    "away": "OAK",
+    "day": 18,
+    "eid": "2018081855",
+    "gamekey": "57529",
+    "home": "LA",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "4:00",
+    "wday": "Sat",
+    "week": 2,
+    "year": 2018
+   }
+  ],
+  [
+   "2018081856",
+   {
+    "away": "JAX",
+    "day": 18,
+    "eid": "2018081856",
+    "gamekey": "57530",
+    "home": "MIN",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "1:00",
+    "wday": "Sat",
+    "week": 2,
+    "year": 2018
+   }
+  ],
+  [
+   "2018081857",
+   {
+    "away": "TB",
+    "day": 18,
+    "eid": "2018081857",
+    "gamekey": "57533",
+    "home": "TEN",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "8:00",
+    "wday": "Sat",
+    "week": 2,
+    "year": 2018
+   }
+  ],
+  [
+   "2018082051",
+   {
+    "away": "BAL",
+    "day": 20,
+    "eid": "2018082051",
+    "gamekey": "57534",
+    "home": "IND",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "8:00",
+    "wday": "Mon",
+    "week": 2,
+    "year": 2018
+   }
+  ],
+  [
+   "2018082351",
+   {
+    "away": "PHI",
+    "day": 23,
+    "eid": "2018082351",
+    "gamekey": "57535",
+    "home": "CLE",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "8:00",
+    "wday": "Thu",
+    "week": 3,
+    "year": 2018
+   }
+  ],
+  [
+   "2018082451",
+   {
+    "away": "NE",
+    "day": 24,
+    "eid": "2018082451",
+    "gamekey": "57536",
+    "home": "CAR",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:30",
+    "wday": "Fri",
+    "week": 3,
+    "year": 2018
+   }
+  ],
+  [
+   "2018082452",
+   {
+    "away": "SEA",
+    "day": 24,
+    "eid": "2018082452",
+    "gamekey": "57542",
+    "home": "MIN",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "8:00",
+    "wday": "Fri",
+    "week": 3,
+    "year": 2018
+   }
+  ],
+  [
+   "2018082453",
+   {
+    "away": "NYG",
+    "day": 24,
+    "eid": "2018082453",
+    "gamekey": "57543",
+    "home": "NYJ",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:30",
+    "wday": "Fri",
+    "week": 3,
+    "year": 2018
+   }
+  ],
+  [
+   "2018082454",
+   {
+    "away": "GB",
+    "day": 24,
+    "eid": "2018082454",
+    "gamekey": "57544",
+    "home": "OAK",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "10:30",
+    "wday": "Fri",
+    "week": 3,
+    "year": 2018
+   }
+  ],
+  [
+   "2018082455",
+   {
+    "away": "DEN",
+    "day": 24,
+    "eid": "2018082455",
+    "gamekey": "57546",
+    "home": "WAS",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:30",
+    "wday": "Fri",
+    "week": 3,
+    "year": 2018
+   }
+  ],
+  [
+   "2018082456",
+   {
+    "away": "DET",
+    "day": 24,
+    "eid": "2018082456",
+    "gamekey": "57547",
+    "home": "TB",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "8:00",
+    "wday": "Fri",
+    "week": 3,
+    "year": 2018
+   }
+  ],
+  [
+   "2018082551",
+   {
+    "away": "KC",
+    "day": 25,
+    "eid": "2018082551",
+    "gamekey": "57537",
+    "home": "CHI",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "1:00",
+    "wday": "Sat",
+    "week": 3,
+    "year": 2018
+   }
+  ],
+  [
+   "2018082552",
+   {
+    "away": "SF",
+    "day": 25,
+    "eid": "2018082552",
+    "gamekey": "57538",
+    "home": "IND",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "4:30",
+    "wday": "Sat",
+    "week": 3,
+    "year": 2018
+   }
+  ],
+  [
+   "2018082553",
+   {
+    "away": "ATL",
+    "day": 25,
+    "eid": "2018082553",
+    "gamekey": "57539",
+    "home": "JAX",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:00",
+    "wday": "Sat",
+    "week": 3,
+    "year": 2018
+   }
+  ],
+  [
+   "2018082554",
+   {
+    "away": "HOU",
+    "day": 25,
+    "eid": "2018082554",
+    "gamekey": "57540",
+    "home": "LA",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "4:00",
+    "wday": "Sat",
+    "week": 3,
+    "year": 2018
+   }
+  ],
+  [
+   "2018082555",
+   {
+    "away": "BAL",
+    "day": 25,
+    "eid": "2018082555",
+    "gamekey": "57541",
+    "home": "MIA",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:00",
+    "wday": "Sat",
+    "week": 3,
+    "year": 2018
+   }
+  ],
+  [
+   "2018082556",
+   {
+    "away": "TEN",
+    "day": 25,
+    "eid": "2018082556",
+    "gamekey": "57545",
+    "home": "PIT",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "4:00",
+    "wday": "Sat",
+    "week": 3,
+    "year": 2018
+   }
+  ],
+  [
+   "2018082557",
+   {
+    "away": "NO",
+    "day": 25,
+    "eid": "2018082557",
+    "gamekey": "57548",
+    "home": "LAC",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "8:00",
+    "wday": "Sat",
+    "week": 3,
+    "year": 2018
+   }
+  ],
+  [
+   "2018082651",
+   {
+    "away": "CIN",
+    "day": 26,
+    "eid": "2018082651",
+    "gamekey": "57549",
+    "home": "BUF",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "4:00",
+    "wday": "Sun",
+    "week": 3,
+    "year": 2018
+   }
+  ],
+  [
+   "2018082652",
+   {
+    "away": "ARI",
+    "day": 26,
+    "eid": "2018082652",
+    "gamekey": "57550",
+    "home": "DAL",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "8:00",
+    "wday": "Sun",
+    "week": 3,
+    "year": 2018
+   }
+  ],
+  [
+   "2018083051",
+   {
+    "away": "DEN",
+    "day": 30,
+    "eid": "2018083051",
+    "gamekey": "57551",
+    "home": "ARI",
+    "meridiem": "AM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "10:00",
+    "wday": "Thu",
+    "week": 4,
+    "year": 2018
+   }
+  ],
+  [
+   "2018083052",
+   {
+    "away": "MIA",
+    "day": 30,
+    "eid": "2018083052",
+    "gamekey": "57552",
+    "home": "ATL",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:00",
+    "wday": "Thu",
+    "week": 4,
+    "year": 2018
+   }
+  ],
+  [
+   "2018083053",
+   {
+    "away": "WAS",
+    "day": 30,
+    "eid": "2018083053",
+    "gamekey": "57553",
+    "home": "BAL",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:30",
+    "wday": "Thu",
+    "week": 4,
+    "year": 2018
+   }
+  ],
+  [
+   "2018083054",
+   {
+    "away": "BUF",
+    "day": 30,
+    "eid": "2018083054",
+    "gamekey": "57554",
+    "home": "CHI",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "8:00",
+    "wday": "Thu",
+    "week": 4,
+    "year": 2018
+   }
+  ],
+  [
+   "2018083055",
+   {
+    "away": "IND",
+    "day": 30,
+    "eid": "2018083055",
+    "gamekey": "57555",
+    "home": "CIN",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:00",
+    "wday": "Thu",
+    "week": 4,
+    "year": 2018
+   }
+  ],
+  [
+   "2018083056",
+   {
+    "away": "CLE",
+    "day": 30,
+    "eid": "2018083056",
+    "gamekey": "57556",
+    "home": "DET",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:00",
+    "wday": "Thu",
+    "week": 4,
+    "year": 2018
+   }
+  ],
+  [
+   "2018083057",
+   {
+    "away": "DAL",
+    "day": 30,
+    "eid": "2018083057",
+    "gamekey": "57557",
+    "home": "HOU",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "8:00",
+    "wday": "Thu",
+    "week": 4,
+    "year": 2018
+   }
+  ],
+  [
+   "2018083058",
+   {
+    "away": "GB",
+    "day": 30,
+    "eid": "2018083058",
+    "gamekey": "57558",
+    "home": "KC",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "8:30",
+    "wday": "Thu",
+    "week": 4,
+    "year": 2018
+   }
+  ],
+  [
+   "2018083059",
+   {
+    "away": "LA",
+    "day": 30,
+    "eid": "2018083059",
+    "gamekey": "57559",
+    "home": "NO",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "8:00",
+    "wday": "Thu",
+    "week": 4,
+    "year": 2018
+   }
+  ],
+  [
+   "2018083060",
+   {
+    "away": "NE",
+    "day": 30,
+    "eid": "2018083060",
+    "gamekey": "57560",
+    "home": "NYG",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:00",
+    "wday": "Thu",
+    "week": 4,
+    "year": 2018
+   }
+  ],
+  [
+   "2018083061",
+   {
+    "away": "NYJ",
+    "day": 30,
+    "eid": "2018083061",
+    "gamekey": "57561",
+    "home": "PHI",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:00",
+    "wday": "Thu",
+    "week": 4,
+    "year": 2018
+   }
+  ],
+  [
+   "2018083062",
+   {
+    "away": "CAR",
+    "day": 30,
+    "eid": "2018083062",
+    "gamekey": "57562",
+    "home": "PIT",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:30",
+    "wday": "Thu",
+    "week": 4,
+    "year": 2018
+   }
+  ],
+  [
+   "2018083063",
+   {
+    "away": "LAC",
+    "day": 30,
+    "eid": "2018083063",
+    "gamekey": "57563",
+    "home": "SF",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "10:00",
+    "wday": "Thu",
+    "week": 4,
+    "year": 2018
+   }
+  ],
+  [
+   "2018083064",
+   {
+    "away": "OAK",
+    "day": 30,
+    "eid": "2018083064",
+    "gamekey": "57564",
+    "home": "SEA",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "10:00",
+    "wday": "Thu",
+    "week": 4,
+    "year": 2018
+   }
+  ],
+  [
+   "2018083065",
+   {
+    "away": "JAX",
+    "day": 30,
+    "eid": "2018083065",
+    "gamekey": "57565",
+    "home": "TB",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "7:30",
+    "wday": "Thu",
+    "week": 4,
+    "year": 2018
+   }
+  ],
+  [
+   "2018083066",
+   {
+    "away": "MIN",
+    "day": 30,
+    "eid": "2018083066",
+    "gamekey": "57566",
+    "home": "TEN",
+    "meridiem": "PM",
+    "month": 8,
+    "season_type": "PRE",
+    "time": "8:00",
+    "wday": "Thu",
+    "week": 4,
+    "year": 2018
+   }
+  ],
+  [
    "2018090600",
    {
     "away": "ATL",
@@ -52456,7 +53561,7 @@
     "meridiem": "PM",
     "month": 10,
     "season_type": "REG",
-    "time": "1:00",
+    "time": "8:20",
     "wday": "Sun",
     "week": 7,
     "year": 2018
@@ -52558,7 +53663,7 @@
     "meridiem": "PM",
     "month": 10,
     "season_type": "REG",
-    "time": "8:20",
+    "time": "4:25",
     "wday": "Sun",
     "week": 7,
     "year": 2018
@@ -53119,7 +54224,7 @@
     "meridiem": "PM",
     "month": 11,
     "season_type": "REG",
-    "time": "1:00",
+    "time": "4:25",
     "wday": "Sun",
     "week": 10,
     "year": 2018
@@ -53340,7 +54445,7 @@
     "meridiem": "PM",
     "month": 11,
     "season_type": "REG",
-    "time": "1:00",
+    "time": "8:20",
     "wday": "Sun",
     "week": 11,
     "year": 2018
@@ -53459,7 +54564,7 @@
     "meridiem": "PM",
     "month": 11,
     "season_type": "REG",
-    "time": "1:00",
+    "time": "4:25",
     "wday": "Sun",
     "week": 11,
     "year": 2018
@@ -53476,7 +54581,7 @@
     "meridiem": "PM",
     "month": 11,
     "season_type": "REG",
-    "time": "8:20",
+    "time": "1:00",
     "wday": "Sun",
     "week": 11,
     "year": 2018
@@ -53629,7 +54734,7 @@
     "meridiem": "PM",
     "month": 11,
     "season_type": "REG",
-    "time": "1:00",
+    "time": "4:25",
     "wday": "Sun",
     "week": 12,
     "year": 2018
@@ -53918,7 +55023,7 @@
     "meridiem": "PM",
     "month": 12,
     "season_type": "REG",
-    "time": "1:00",
+    "time": "8:20",
     "wday": "Sun",
     "week": 13,
     "year": 2018
@@ -54003,7 +55108,7 @@
     "meridiem": "PM",
     "month": 12,
     "season_type": "REG",
-    "time": "8:20",
+    "time": "4:25",
     "wday": "Sun",
     "week": 13,
     "year": 2018
@@ -54071,7 +55176,7 @@
     "meridiem": "PM",
     "month": 12,
     "season_type": "REG",
-    "time": "1:00",
+    "time": "8:20",
     "wday": "Sun",
     "week": 14,
     "year": 2018
@@ -54275,7 +55380,7 @@
     "meridiem": "PM",
     "month": 12,
     "season_type": "REG",
-    "time": "8:20",
+    "time": "4:25",
     "wday": "Sun",
     "week": 14,
     "year": 2018
@@ -54343,7 +55448,7 @@
     "meridiem": "PM",
     "month": 12,
     "season_type": "REG",
-    "time": "4:30",
+    "time": "8:20",
     "wday": "Sat",
     "week": 15,
     "year": 2018
@@ -54567,6 +55672,40 @@
     "time": "8:15",
     "wday": "Mon",
     "week": 15,
+    "year": 2018
+   }
+  ],
+  [
+   "2018122200",
+   {
+    "away": "WAS",
+    "day": 22,
+    "eid": "2018122200",
+    "gamekey": "57794",
+    "home": "TEN",
+    "meridiem": "PM",
+    "month": 12,
+    "season_type": "REG",
+    "time": "4:30",
+    "wday": "Sat",
+    "week": 16,
+    "year": 2018
+   }
+  ],
+  [
+   "2018122201",
+   {
+    "away": "BAL",
+    "day": 22,
+    "eid": "2018122201",
+    "gamekey": "57792",
+    "home": "LAC",
+    "meridiem": "PM",
+    "month": 12,
+    "season_type": "REG",
+    "time": "8:20",
+    "wday": "Sat",
+    "week": 16,
     "year": 2018
    }
   ],
@@ -54853,7 +55992,7 @@
     "meridiem": "PM",
     "month": 12,
     "season_type": "REG",
-    "time": "1:00",
+    "time": "4:25",
     "wday": "Sun",
     "week": 17,
     "year": 2018
@@ -54921,7 +56060,7 @@
     "meridiem": "PM",
     "month": 12,
     "season_type": "REG",
-    "time": "1:00",
+    "time": "4:25",
     "wday": "Sun",
     "week": 17,
     "year": 2018
@@ -54938,7 +56077,7 @@
     "meridiem": "PM",
     "month": 12,
     "season_type": "REG",
-    "time": "1:00",
+    "time": "4:25",
     "wday": "Sun",
     "week": 17,
     "year": 2018
@@ -55006,7 +56145,7 @@
     "meridiem": "PM",
     "month": 12,
     "season_type": "REG",
-    "time": "1:00",
+    "time": "4:25",
     "wday": "Sun",
     "week": 17,
     "year": 2018
@@ -55040,7 +56179,7 @@
     "meridiem": "PM",
     "month": 12,
     "season_type": "REG",
-    "time": "1:00",
+    "time": "8:20",
     "wday": "Sun",
     "week": 17,
     "year": 2018
@@ -55057,7 +56196,7 @@
     "meridiem": "PM",
     "month": 12,
     "season_type": "REG",
-    "time": "1:00",
+    "time": "4:25",
     "wday": "Sun",
     "week": 17,
     "year": 2018
@@ -55113,7 +56252,143 @@
     "week": 17,
     "year": 2018
    }
+  ],
+  [
+   "2019010500",
+   {
+    "away": "IND",
+    "day": 5,
+    "eid": "2019010500",
+    "gamekey": "57823",
+    "home": "HOU",
+    "meridiem": "PM",
+    "month": 1,
+    "season_type": "POST",
+    "time": "4:35",
+    "wday": "Sat",
+    "week": 1,
+    "year": 2018
+   }
+  ],
+  [
+   "2019010501",
+   {
+    "away": "SEA",
+    "day": 5,
+    "eid": "2019010501",
+    "gamekey": "57824",
+    "home": "DAL",
+    "meridiem": "PM",
+    "month": 1,
+    "season_type": "POST",
+    "time": "8:15",
+    "wday": "Sat",
+    "week": 1,
+    "year": 2018
+   }
+  ],
+  [
+   "2019010600",
+   {
+    "away": "LAC",
+    "day": 6,
+    "eid": "2019010600",
+    "gamekey": "57825",
+    "home": "BAL",
+    "meridiem": "PM",
+    "month": 1,
+    "season_type": "POST",
+    "time": "1:05",
+    "wday": "Sun",
+    "week": 1,
+    "year": 2018
+   }
+  ],
+  [
+   "2019010601",
+   {
+    "away": "PHI",
+    "day": 6,
+    "eid": "2019010601",
+    "gamekey": "57826",
+    "home": "CHI",
+    "meridiem": "PM",
+    "month": 1,
+    "season_type": "POST",
+    "time": "4:40",
+    "wday": "Sun",
+    "week": 1,
+    "year": 2018
+   }
+  ],
+  [
+   "2019011200",
+   {
+    "away": "IND",
+    "day": 12,
+    "eid": "2019011200",
+    "gamekey": "57827",
+    "home": "KC",
+    "meridiem": "PM",
+    "month": 1,
+    "season_type": "POST",
+    "time": "4:35",
+    "wday": "Sat",
+    "week": 2,
+    "year": 2018
+   }
+  ],
+  [
+   "2019011201",
+   {
+    "away": "DAL",
+    "day": 12,
+    "eid": "2019011201",
+    "gamekey": "57828",
+    "home": "LA",
+    "meridiem": "PM",
+    "month": 1,
+    "season_type": "POST",
+    "time": "8:15",
+    "wday": "Sat",
+    "week": 2,
+    "year": 2018
+   }
+  ],
+  [
+   "2019011300",
+   {
+    "away": "LAC",
+    "day": 13,
+    "eid": "2019011300",
+    "gamekey": "57829",
+    "home": "NE",
+    "meridiem": "PM",
+    "month": 1,
+    "season_type": "POST",
+    "time": "1:05",
+    "wday": "Sun",
+    "week": 2,
+    "year": 2018
+   }
+  ],
+  [
+   "2019011301",
+   {
+    "away": "PHI",
+    "day": 13,
+    "eid": "2019011301",
+    "gamekey": "57830",
+    "home": "NO",
+    "meridiem": "PM",
+    "month": 1,
+    "season_type": "POST",
+    "time": "4:40",
+    "wday": "Sun",
+    "week": 2,
+    "year": 2018
+   }
   ]
  ],
- "time": 1536094470.463693
+ "time": 1546901599.560834
 }
