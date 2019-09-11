@@ -55727,6 +55727,23 @@
    }
   ],
   [
+   "2018122301",
+   {
+    "away": "BAL",
+    "day": 23,
+    "eid": "2018122301",
+    "gamekey": "57792",
+    "home": "LAC",
+    "meridiem": "PM",
+    "month": 12,
+    "season_type": "REG",
+    "time": "4:05",
+    "wday": "Sun",
+    "week": 16,
+    "year": 2018
+   }
+  ],
+  [
    "2018122302",
    {
     "away": "JAX",
@@ -55734,6 +55751,23 @@
     "eid": "2018122302",
     "gamekey": "57793",
     "home": "MIA",
+    "meridiem": "PM",
+    "month": 12,
+    "season_type": "REG",
+    "time": "1:00",
+    "wday": "Sun",
+    "week": 16,
+    "year": 2018
+   }
+  ],
+  [
+   "2018122303",
+   {
+    "away": "WAS",
+    "day": 23,
+    "eid": "2018122303",
+    "gamekey": "57794",
+    "home": "TEN",
     "meridiem": "PM",
     "month": 12,
     "season_type": "REG",
