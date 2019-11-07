@@ -127,6 +127,8 @@ def gsis_id(profile_url):
 
 
 def roster_soup(team):
+    if team == 'JAC':
+        team = 'JAX' # Bug with nfl.com updating team abbreviation, creating an infinite redirect.
     resp, content = new_http().request(urls['roster'] % team, 'GET')
     if resp['status'] != '200':
         return None
